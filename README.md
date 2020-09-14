@@ -1,4 +1,4 @@
-# Chicago_Business_Licenses
+# Chicago Business Licenses
 
 This repository contains code to create a database of current active Chicago Businesses Licenses using Python and MySQL.
 
